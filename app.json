@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "cafe-to-go-mobile",
+    "slug": "cafe-to-go-mobile"
+  }
+}
